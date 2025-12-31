@@ -1,4 +1,5 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Hello%2C+I%27m+Seongmin+Choi+%F0%9F%91%8B&fontSize=55&fontAlign=50&fontAlignY=50&desc=&descSize=10&descAlign=50&descAlignY=60)
+
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
