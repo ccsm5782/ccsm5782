@@ -14,7 +14,6 @@
 - 🎓 Education: B.S in Industrial & Management Engineering, Kyung Hee University
 - 📍 Location: Pangyo, South Korea 🇰🇷
 - ✉️ Contact: ccsm5782@naver.com
-- 📸 instagram: @ccsm5782
 
 
 
