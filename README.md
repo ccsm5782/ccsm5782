@@ -10,6 +10,11 @@
 - 새만금개발청 주관 데이터 분석 공모전 최우수상 수상
 [새만금개발청.pdf](https://github.com/user-attachments/files/24389586/default.pdf)
 
+### 📜 Certifications
+- ADsP (데이터분석 준전문가)
+- SQLD (SQL 개발자)
+- 투자자산운용사
+
 ### 👤 About Me
 - 🎓 Education: B.S in Industrial & Management Engineering, Kyung Hee University
 - 📍 Location: Pangyo, South Korea 🇰🇷
