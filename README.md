@@ -3,7 +3,6 @@
 ### 안녕하세요, AI Engineer로 성장하려는 Seongmin Choi 입니다! 
 
 ### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![r](https://img.shields.io/badge/r-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white) ![sql](https://img.shields.io/badge/Sql-000000.svg?&style=for-the-badge) 
 
 ### 🏆 Awards
@@ -19,6 +18,9 @@
 - 🎓 Education: B.S in Industrial & Management Engineering, Kyung Hee University
 - 📍 Location: Pangyo, South Korea 🇰🇷
 - ✉️ Contact: ccsm5782@naver.com
+
+
+<img width="259" height="320" alt="신짱구" src="https://github.com/user-attachments/assets/1ec4fc44-18a0-4f2f-8056-fed53f89e99b" />
 
 
 
