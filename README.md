@@ -13,6 +13,7 @@
 - ADsP (데이터분석 준전문가)
 - SQLD (SQL 개발자)
 - 투자자산운용사
+- Google Analytics
 
 ### 👤 About Me
 - 🎓 Education: B.S in Industrial & Management Engineering, Kyung Hee University
