@@ -36,7 +36,10 @@
 - 📍 Location: Pangyo, South Korea 🇰🇷
 - ✉️ Contact: ccsm5782@naver.com
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- 2D 잔디 기여 그래프 -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/ccsm5782" alt="ccsm5782's Github Stats" />
+</p>
 
 
 <img width="259" height="320" alt="신짱구" src="https://github.com/user-attachments/assets/1ec4fc44-18a0-4f2f-8056-fed53f89e99b" />
