@@ -36,13 +36,6 @@
 - 📍 Location: Pangyo, South Korea 🇰🇷
 - ✉️ Contact: ccsm5782@naver.com
 
-<!-- 종합 통계 & 연속 커밋 스트릭 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccsm5782&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccsm5782&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-
 <img width="259" height="320" alt="신짱구" src="https://github.com/user-attachments/assets/1ec4fc44-18a0-4f2f-8056-fed53f89e99b" />
 
 
