@@ -36,9 +36,10 @@
 - 📍 Location: Pangyo, South Korea 🇰🇷
 - ✉️ Contact: ccsm5782@naver.com
 
-<!-- 2D 잔디 기여 그래프 -->
+<!-- 종합 통계 & 연속 커밋 스트릭 -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/ccsm5782" alt="ccsm5782's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ccsm5782&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccsm5782&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
